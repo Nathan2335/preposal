@@ -6,7 +6,7 @@ Im thinking of doing like a home security thing similar to the other project you
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+No one at the memont
 
 ## Do you have any questions of your own?
 
